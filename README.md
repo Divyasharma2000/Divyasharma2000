@@ -3,6 +3,18 @@
 
 I am a passionate Full Stack Developer with 1+ year of experience in the MERN stack (React.js, Node.js, MongoDB). I thrive on building scalable and maintainable front-end solutions.
 
+💼 **Professional Experience**
+
+- **Full Stack Developer – BytesFarms Technologies, Indore** *(Jun 2024 – Jul 2025)*  
+  Worked on **MarineFlow-AI**, a US-based SaaS platform automating maritime operations.  
+  - Built AI-driven dashboards using React.js and Spring Boot.  
+  - Developed analytics for port efficiency, laytime calculations, and document digitization.  
+
+- **Developer – Shiavnski Technologies, Indore** *(Feb 2024 – Apr 2024)*  
+  Contributed to the **Spriced – Cummins Parts Platform** using Spring Boot and AWS.  
+  - Refactored SQL procedures into optimized PostgreSQL queries.  
+  - Developed Terraform scripts for ECS setup and built custom alert services in Java.
+
 💡 **My Core Competencies (Tech Stack)**
 
 | Category | Skills |
@@ -25,3 +37,4 @@ I am a passionate Full Stack Developer with 1+ year of experience in the MERN st
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" style="vertical-align:middle;"/> **LinkedIn:** [linkedin.com/in/divya-sharma0105](https://www.linkedin.com/in/divya-sharma0105/)
 
 🌟 **Goal:** Actively seeking challenging full-stack opportunities to leverage expertise.
+

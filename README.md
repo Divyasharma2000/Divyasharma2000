@@ -1,6 +1,5 @@
 ### Hello! 👋 I'm Divya Sharma
 
-<img align="right" width="150" src="https://placehold.co/150x150/007bff/ffffff?text=Divya+S" alt="Divya Sharma Profile Picture">
 
 I am a passionate Full Stack Developer with 1+ year of experience in the MERN stack (React.js, Node.js, MongoDB). I thrive on building scalable and maintainable front-end solutions.
 
@@ -22,7 +21,7 @@ I am a passionate Full Stack Developer with 1+ year of experience in the MERN st
 
 📞 **Let's Connect**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma0105divya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-sharma0105/)
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" style="vertical-align:middle;"/> **Email:** [sharma0105divya@gmail.com](mailto:sharma0105divya@gmail.com)  
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" style="vertical-align:middle;"/> **LinkedIn:** [linkedin.com/in/divya-sharma0105](https://www.linkedin.com/in/divya-sharma0105/)
 
 🌟 **Goal:** Actively seeking challenging full-stack opportunities to leverage expertise.

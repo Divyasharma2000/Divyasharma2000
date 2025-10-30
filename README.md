@@ -38,3 +38,4 @@ I am a passionate Full Stack Developer with 1+ year of experience in the MERN st
 
 🌟 **Goal:** Actively seeking challenging full-stack opportunities to leverage expertise.
 
+Availability:** Immediate Joiner | Open to New Opportunities

@@ -1,8 +1,5 @@
 Hello! 👋 I'm Divya Sharma
 
-<img align="right" width="150" src="https://placehold.co/150x150/007bff/ffffff?text=Divya+S" alt="Divya Sharma Profile Picture">
-
-
 I am a passionate Full Stack Developer with 1+ year of experience in the MERN stack (React.js, Node.js, MongoDB). I thrive on building scalable and maintainable front-end solutions.
 
 💡 My Core Competencies (Tech Stack)

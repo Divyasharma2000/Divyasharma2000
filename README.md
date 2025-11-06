@@ -28,7 +28,7 @@ I am a passionate Full Stack Developer with 1+ year of experience in the MERN st
 
 - **Micro-Frontend POC (Latest!)**: A scalable architecture built using Module Federation (Vite/React) demonstrating seamless integration and communication between micro-applications.  
   🔗 [GitHub Repo](https://github.com/Divyasharma2000/Bluebash-MFE-POC)
-   [GitHub Repo](https://github.com/Divyasharma2000/scalable-job-importer)
+   (https://github.com/Divyasharma2000/scalable-job-importer)
   
 
 - **CoverKraft - Insurance Platform**: Admin Dashboard built with MERN stack for managing insurance policies and users, implementing Role-Based Access Control (RBAC).

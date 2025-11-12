@@ -37,7 +37,7 @@ I am a passionate Full Stack Developer with 1+ year of experience in the MERN st
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" style="vertical-align:middle;"/> **Email:** [sharma0105divya@gmail.com](mailto:sharma0105divya@gmail.com)  
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" style="vertical-align:middle;"/> **LinkedIn:** [linkedin.com/in/divya-sharma0105](https://www.linkedin.com/in/divya-sharma0105/)
 
-<a href="https://drive.google.com/file/d/1u99Dr_YE41OJaF3T0SUFXsZD_7LqVPk1/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1RpROUV5JKyL_NYgePHnw7bILF-2e-gjt/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Download_Resume-3C989C?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/>
 </a>
 

@@ -1,9 +1,9 @@
-Hello! 👋 I'm Divya Sharma
+**Hello! 👋 I'm Divya Sharma**
 I am a passionate Full Stack Developer with 2+ years of experience in the MERN stack (React.js, Node.js, MongoDB) and Java/Spring Boot. I specialize in building enterprise-grade solutions, from complex ERP systems to AI-driven SaaS platforms.
 
 💼 **Professional Experience**
 
-- **Full Stack Developer – Info Sparkles IT Solution, Indore *** (Sep 2025 – Apr 2026)
+- **Full Stack Developer – Info Sparkles IT Solution, Indore** (Sep 2025 – Apr 2026)
 Architected a multi-module ERP system handling Finance, HR, and Inventory.
 Implemented a granular Role-Based Access Control (RBAC) system with hierarchical permissions for 130+ models.
 Automated financial workflows, audit trails, and dynamic PDF reporting using Puppeteer and Node-Cron.
